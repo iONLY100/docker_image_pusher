@@ -1,1 +1,1 @@
-xianwei2022/stars.client:latest
+registry.cn-beijing.aliyuncs.com/ld_beijing/stars.client:latest
