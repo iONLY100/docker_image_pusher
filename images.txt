@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/ld_beijing/stars.client:latest
+adguard/adguardhome:latest
