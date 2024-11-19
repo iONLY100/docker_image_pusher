@@ -1,1 +1,1 @@
-ionly100/slash:1.0.0
+xhofe/alist:latest
