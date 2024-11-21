@@ -1,1 +1,1 @@
-vaultwarden/server:latest
+--alias=vaultwarden_server vaultwarden/server:latest
