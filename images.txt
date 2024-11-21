@@ -1,1 +1,1 @@
---alias=vaultwarden_server vaultwarden/server:latest
+gdy666/lucky:latest
