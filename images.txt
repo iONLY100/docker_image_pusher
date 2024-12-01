@@ -1,1 +1,1 @@
-bitnami/postgresql:17.2.0
+bitnami/mysql:8.0
