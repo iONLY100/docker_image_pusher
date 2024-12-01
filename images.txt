@@ -1,1 +1,1 @@
-bitnami/mysql:8.0
+itushan/mtab:2.4.2
