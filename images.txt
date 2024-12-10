@@ -1,1 +1,1 @@
-xhongc/music_tag_web:latest
+yisier1/nps:v0.26.20
