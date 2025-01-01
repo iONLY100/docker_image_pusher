@@ -1,1 +1,1 @@
-yisier1/npc:v0.26.20
+deluan/navidrome:0.54.3
