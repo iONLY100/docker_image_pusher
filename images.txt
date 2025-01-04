@@ -1,1 +1,1 @@
-deluan/navidrome:0.54.3
+advplyr/audiobookshelf:2.17.7
