@@ -1,1 +1,1 @@
-adguard/adguardhome:v0.107.55
+zzsrv/openwrt:x86_64
