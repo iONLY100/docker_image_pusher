@@ -1,1 +1,1 @@
-advplyr/audiobookshelf:2.17.7
+adguard/adguardhome:v0.107.55
