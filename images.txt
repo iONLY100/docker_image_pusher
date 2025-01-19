@@ -1,1 +1,1 @@
-bitnami/wordpress:6.7.1
+--alias=wordpress-official wordpress:6.7.1
